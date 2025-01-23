@@ -1,0 +1,13 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Environment files
+.env
+*.env
+
+# Streamlit cache
+.streamlit/
+
+# Ignore your API key
+ai_chess_agent.py
