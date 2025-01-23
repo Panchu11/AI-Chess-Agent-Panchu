@@ -27,8 +27,8 @@ An advanced Chess game system where two AI agents play chess against each other 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd ai_agent_tutorials/ai_chess_game
+git clone https://github.com/Panchu11/AI-Chess-Agent-Panchu.git
+cd AI-Chess-Agent-Panchu
 ```
 2. Install the required dependencies:
 
