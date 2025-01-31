@@ -5,7 +5,7 @@ An advanced Chess game system where two AI agents play chess against each other 
 ## Features
 
 ### Multi-Agent Architecture
-- Player White: OpenAI-powered strategic decision maker
+- Player White: OpenAI powered strategic decision maker
 - Player Black: OpenAI-powered tactical opponent
 - Board Proxy: Validation agent for move legality and game state
 
