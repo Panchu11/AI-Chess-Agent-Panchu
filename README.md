@@ -22,7 +22,7 @@ An advanced Chess game system where two AI agents play Chess against each other 
 - Complete chess ruleset implementation
 
 
-### How to get Started?
+### How to get started?
 
 1. Clone the GitHub repository
 
