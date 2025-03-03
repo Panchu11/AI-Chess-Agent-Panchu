@@ -1,6 +1,6 @@
 # ♜ Agent White vs Agent Black: Chess Game
 
-An advanced Chess game system where two AI agents play Chess against each other using Autogen in a Streamlit App. It is built with robust move validation and game state management.
+An advanced Chess game system where two AI Agents play Chess against each other using Autogen in a Streamlit App. It is built with robust move validation and game state management.
 
 ## Features
 
